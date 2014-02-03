@@ -1,0 +1,9 @@
+[submodule "2014/geoNetwork3"]
+	path = 2014/geoNetwork3
+	url = https://github.com/Delawen/geoNetwork3.git
+[submodule "2014/geocat-live"]
+	path = 2014/geocat-live
+	url = https://github.com/Delawen/geocat-live.git
+[submodule "2014/editores-de-metadatos"]
+	path = 2014/editores-de-metadatos
+	url = https://github.com/Delawen/editores-de-metadatos.git
