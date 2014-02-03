@@ -7,3 +7,6 @@
 [submodule "2014/editores-de-metadatos"]
 	path = 2014/editores-de-metadatos
 	url = https://github.com/Delawen/editores-de-metadatos.git
+[submodule "2014/code-combat"]
+	path = 2014/code-combat
+	url = https://github.com/Delawen/codeCombat-LeafletOpenLayers.git
