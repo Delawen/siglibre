@@ -10,3 +10,6 @@
 [submodule "2014/code-combat"]
 	path = 2014/code-combat
 	url = https://github.com/Delawen/codeCombat-LeafletOpenLayers.git
+[submodule "2014/panorama-siglibre"]
+	path = 2014/panorama-siglibre
+	url = https://github.com/OSGeo-ES/panorama-siglibre8.git
