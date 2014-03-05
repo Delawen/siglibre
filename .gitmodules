@@ -13,3 +13,6 @@
 [submodule "2014/panorama-siglibre"]
 	path = 2014/panorama-siglibre
 	url = https://github.com/OSGeo-ES/panorama-siglibre8.git
+[submodule "2012/routing"]
+	path = 2012/routing
+	url = https://github.com/Delawen/Taller-Routing.git
