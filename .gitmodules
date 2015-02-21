@@ -16,3 +16,9 @@
 [submodule "2012/routing"]
 	path = 2012/routing
 	url = https://github.com/Delawen/Taller-Routing.git
+[submodule "reveal"]
+	path = reveal
+	url = https://github.com/hakimel/reveal.js.git
+[submodule "stylesheets"]
+	path = stylesheets
+	url = https://github.com/Delawen/stylesheets.git
