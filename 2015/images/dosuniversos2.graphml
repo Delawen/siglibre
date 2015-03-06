@@ -89,6 +89,36 @@
         </y:ImageNode>
       </data>
     </node>
+    <edge id="e0" source="n3" target="n0">
+      <data key="d8"/>
+      <data key="d9">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="-244.22617048275015" ty="122.22413608690118">
+            <y:Point x="181.20485999787866" y="483.25978570441436"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="7.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:StyleProperties>
+            <y:Property class="java.awt.Color" name="FramedEdgePainter.fillColor" value="#0000ff"/>
+          </y:StyleProperties>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n0" target="n3">
+      <data key="d8"/>
+      <data key="d9">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="335.8050239344047" ty="-167.68812111665721">
+            <y:Point x="437.24150019123863" y="193.34752850085596"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="7.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:StyleProperties>
+            <y:Property class="java.awt.Color" name="FramedEdgePainter.fillColor" value="#33cc00"/>
+          </y:StyleProperties>
+        </y:GenericEdge>
+      </data>
+    </edge>
   </graph>
   <data key="d6">
     <y:Resources>
